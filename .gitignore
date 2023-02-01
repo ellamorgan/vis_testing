@@ -1,0 +1,8 @@
+env/
+packages/
+**/__pycache__/
+**/vis_pddl/__pycache__/
+**/vis_pddl/dataset/__pycache__/
+**/vis_pddl/utils/__pycache__/
+**/vis_pddl/visualizers/__pycache__/
+.vscode/
